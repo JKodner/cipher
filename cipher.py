@@ -1,5 +1,5 @@
-print "Type 'CO' to convert the text to new characters"
-print "Type 'EN' to convert the text to English"
+print "Type 'CO' to convert the text to new characters."
+print "Type 'EN' to convert the text to English."
 print "Type 'BF' to brute force the text."
 
 response = None
